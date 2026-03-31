@@ -16,4 +16,3 @@ Créer un modèle simple pour prédire le prix d'une maison en fonction de sa su
 
 ## Résultat
 - Le modèle permet de prédire le prix d'une maison selon sa surface
-- Illustratif de la logique de régression linéaire utilisée en Machine Learning
